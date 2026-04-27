@@ -1,4 +1,4 @@
-DOCKER_USERNAME ?= SAP-samples
+DOCKER_USERNAME ?= sap-samples
 PACKAGENAME ?= odd
 
 build:
