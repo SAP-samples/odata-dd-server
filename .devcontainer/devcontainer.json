@@ -1,0 +1,9 @@
+{
+    "name": "OData Deep Dive Server",
+    "build": {
+        "dockerfile": "Dockerfile"
+    },
+    "forwardPorts": [
+        4004
+    ]
+}
