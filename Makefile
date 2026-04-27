@@ -1,4 +1,4 @@
-DOCKER_USERNAME ?= qmacro
+DOCKER_USERNAME ?= SAP-samples
 PACKAGENAME ?= odd
 
 build:
